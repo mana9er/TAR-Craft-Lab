@@ -22,7 +22,7 @@
 ## 贡献 / Contribution
 
 TAR Craft 以下玩家为本项目建设做出了重要的贡献：
-- ![Asudy](https://user-images.githubusercontent.com/58395045/131883488-041b6432-15a8-4724-93f8-edc3783fb062.png) Asudy
-- ![Athiru](https://user-images.githubusercontent.com/58395045/131883334-c5f02002-ff5d-416d-9e2e-c259642669af.png) Athiru
-- ![lkmcfj](https://user-images.githubusercontent.com/58395045/131883225-8ba7e55f-3e6e-419d-9f5c-fa8b4b41f410.png) lkmcfj
-- ![LovEver_](https://user-images.githubusercontent.com/58395045/131883532-f0949481-29d1-4861-9365-7ec881645351.png) LovEver_
+- ![Asudy](https://cravatar.eu/helmhead/Asudy/60) Asudy
+- ![Athiru](https://cravatar.eu/helmhead/Athiru/60) Athiru
+- ![lkmcfj](https://cravatar.eu/helmhead/lkmcfj/60) lkmcfj
+- ![LovEver_](https://cravatar.eu/helmhead/LovEver_/60) LovEver_
