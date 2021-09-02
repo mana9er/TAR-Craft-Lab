@@ -1,8 +1,28 @@
-# Sky's not the limit (MCJE 1.15+)
+# Sky's Not the Limit! (MCJE 1.15+)
 
-鞘翅摸高机，生存数电娱乐装置。
-Elytra high-fly, a digital entertainment facility under survival mode.
+> 鞘翅摸高机，生存数电娱乐装置。
+> 
+> The Elytra High-fly Playground, a Digital Entertainment Facility under Survival Mode.
 
-## Introduction
+## 介绍 / Introduction
 
-玩家身着鞘翅，手持激流3附魔的三叉戟，从海平面起飞。玩家飞至装置处会被拌线钩检测到，此时数码管上就会显示玩家到达的最大高度（以最高的被触发的拌线钩为准）。详细原理介绍可参考展示视频。
+玩家身着鞘翅，手持 `激流 III` 附魔的三叉戟，从海平面起飞。玩家飞至装置内被绊线钩检测到后，七段数码管显示器上会显示玩家到达的最大高度（以被触发的最高绊线钩为准）。详细原理介绍可参考展示视频。
+
+## 下载 / Download
+
+- [点此下载.zip存档压缩包](https://github.com/mana9er/TAR-Craft-Lab/raw/master/Sky's%20not%20the%20limit/skys-not-the-limit.zip)
+- [点此下载.tar.gz存档压缩包](https://github.com/mana9er/TAR-Craft-Lab/raw/master/Sky's%20not%20the%20limit/skys-not-the-limit.tar.gz)
+
+## 安装与使用 / Installation & Usage
+
+由于机器部分走线使用了蜂蜜块特性，存档需要在 MCJE 1.15+ 版本上打开。（也可以魔改走线，全部改成粘液块，即可在低版本使用（*未经测试*）。）
+
+本存档仅对机器做出展示。如果您想在本存档内尝试游玩，请自行在合适的位置搭建起飞平台 :)
+
+## 贡献 / Contribution
+
+TAR Craft 以下玩家为本项目建设做出了重要的贡献：
+- ![Asudy](https://user-images.githubusercontent.com/58395045/131883488-041b6432-15a8-4724-93f8-edc3783fb062.png) Asudy
+- ![Athiru](https://user-images.githubusercontent.com/58395045/131883334-c5f02002-ff5d-416d-9e2e-c259642669af.png) Athiru
+- ![lkmcfj](https://user-images.githubusercontent.com/58395045/131883225-8ba7e55f-3e6e-419d-9f5c-fa8b4b41f410.png) lkmcfj
+- ![LovEver_](https://user-images.githubusercontent.com/58395045/131883532-f0949481-29d1-4861-9365-7ec881645351.png) LovEver_
